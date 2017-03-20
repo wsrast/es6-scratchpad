@@ -28,3 +28,10 @@ console.log(`project: ${project}`);*/
 /*
 import * as allExports from './import-examples/module-y';
 console.dir(allExports);*/
+
+
+/*
+import Foo from './classes';
+
+let f = new Foo('Instantiating from modules.js');
+f.bar();*/
